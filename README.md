@@ -17,8 +17,6 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naphattar)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naphattar&layout=compact&hide=python,c%2B%2B,java,c)](https://github.com/anuraghazra/github-readme-stats)
 
 
