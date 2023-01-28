@@ -16,6 +16,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naphattar&show_icons=true&theme=radical)
+
 
 
 
